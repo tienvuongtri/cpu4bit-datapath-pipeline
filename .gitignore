@@ -1,0 +1,24 @@
+# Vivado generated directories
+*.cache/
+*.gen/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+.Xil/
+
+# Vivado generated files
+*.jou
+*.log
+*.str
+*.wdb
+*.pb
+*.vcd
+*.ltx
+webtalk*.xml
+webtalk*.jou
+
+# OS and editor files
+Thumbs.db
+Desktop.ini
+.vscode/
